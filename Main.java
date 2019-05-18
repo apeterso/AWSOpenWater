@@ -34,7 +34,6 @@ public class Main {
     private static ArrayList<Person> recipients = new ArrayList<>();
     
     static final String FROM = "igotdarighttemperature@gmail.com";
-    //static final String TO = "anderspeterson11@gmail.com";
     
     static final String SUBJECT = "Your Water Temperatures from OpenWater";
     
